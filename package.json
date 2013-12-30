@@ -1,0 +1,16 @@
+{
+  "name": "node-example",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "logfmt": "~0.18.1",
+    "express": "~3.4.7"
+  }
+}
